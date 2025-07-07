@@ -1,2 +1,3 @@
-# AulaAluraSPA
- Projeto aula Alura sobre SCSS &amp; SASS 
+# FutFan Store
+
+Rodar local: npm install && npm run dev

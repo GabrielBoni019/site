@@ -1,0 +1,1 @@
+{ "name": "futfan-store", "scripts": { "dev": "next dev" }, "dependencies": { "react": "^18.0.0" } }
